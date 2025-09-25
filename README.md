@@ -37,18 +37,18 @@ Built with **Cursor AI**, this agent lets you:
 
 ## Installation Required:
 1. Clone Repository:
-   git clone https://github.com/your-username/reddit-summarizer-agent.git
-   cd reddit-summarizer-agent
+   - git clone https://github.com/your-username/reddit-summarizer-agent.git
+   - cd reddit-summarizer-agent
 2. Create Virtual Environment:
-   python3 -m venv venv
-   source venv/bin/activate   # On Linux/Mac
-   venv\Scripts\activate      # On Windows
+   - python3 -m venv venv
+   - source venv/bin/activate   # On Linux/Mac
+   - venv\Scripts\activate      # On Windows
 3. Install Dependencies:
-   pip install -r requirements.txt
+   - pip install -r requirements.txt
 4. (Optional) Configure Reddit API Keys
-   REDDIT_CLIENT_ID=your_client_id
-   REDDIT_SECRET=your_client_secret
-   REDDIT_USER_AGENT=your_user_agent 
+   - REDDIT_CLIENT_ID=your_client_id
+   - REDDIT_SECRET=your_client_secret
+   - REDDIT_USER_AGENT=your_user_agent 
 
 ## Notes:
 * Web scraper works without API keys but may be slower
